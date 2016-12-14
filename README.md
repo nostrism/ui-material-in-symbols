@@ -6,8 +6,10 @@ Symbols of buttons and text fields in materil design for CRAFT.
 
 + Download the [zip file](https://github.com/nostrism/ui-material-in-symbols/archive/master.zip)
 + Unzip the zip file
-+ Make sure the name of the file is `SketchContentSync.sketchplugin`.
-+ Double click on the `SketchContentSync.sketchplugin` to install it into Sketch.
++ Open Sketch file
++ Open Craft `⌘+P`
++ Choose library icon
++ Choose libtaty from folder ui-material-in-symbols-master `Material.Buttonsandfields.library`
 
 # Features
 
