@@ -13,4 +13,6 @@ Symbols of buttons and text fields in materil design for CRAFT.
 
 # Features
 
-### Content Synchronizing
+### Buttons
+
+![All Buttons](./img/Buttons.png)
