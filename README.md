@@ -35,10 +35,12 @@ Even buttons with icon inside. Can be used any material icon.
 
 You can write in any text in fields: label, text and hint.
 
-![Edit fields](./img/fileds-01.gif)
+![Edit fields](./img/fields-01.gif)
 
 You can choose any style for field: default, empty or dissable, with hint or without.
 
-![Fields style](./img/fileds-02.gif)
+![Fields style](./img/fields-02.gif)
 
 Text always be on correct place — lable on lable, text on text. Every symbols have label, text and hint. Even changed style text will no be disappear.
+
+![Fields change](./img/fields-03.gif)
