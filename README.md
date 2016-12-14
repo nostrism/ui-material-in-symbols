@@ -1,8 +1,8 @@
-# Material design: UI components library in sketch-symbols for CRAFT
+# Material design: UI components library in Sketch-symbols for CRAFT
 
 Symbols of buttons and text fields in material design for CRAFT.
 
-A set of buttons and text fields in the form of a sketch-symbols which are loaded in CRAFT library. Designed for fast work in the sketch.
+A set of buttons and text fields in the form of a Sketch-symbols which are loaded in CRAFT library. Designed for fast work in the Sketch.
 
 # Installation
 
@@ -19,11 +19,11 @@ A set of buttons and text fields in the form of a sketch-symbols which are loade
 
 ![All Buttons](./img/Buttons.png)
 
-In buttons can write any text. Customized sizes manually. But you can do it by eye, all sizes are still will be correct.
+You can type in buttons any text you need. Customized sizes manually. But you can do it by eye, all sizes are still will be correct.
 
 ![Edit button](./img/btn-01.gif)
 
-You can choose any style for button: 
+Apply different styles for the buttons: 
 
 + Rise
 + Flat
@@ -45,7 +45,7 @@ Text fields consist of three parts: label, text and hint.
 
 ![Edit fields](./img/fields-01.gif)
 
-You can choose any style for field: 
+Apply different styles for the field: 
 
 + default
 + empty
