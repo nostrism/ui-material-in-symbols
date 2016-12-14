@@ -1,4 +1,4 @@
-# UI material design in sketch-symbols for CRAFT
+# Material design: UI components library in sketch-symbols for CRAFT
 
 Symbols of buttons and text fields in material design for CRAFT.
 
@@ -7,7 +7,7 @@ Symbols of buttons and text fields in material design for CRAFT.
 + Download the [zip file](https://github.com/nostrism/ui-material-in-symbols/archive/master.zip)
 + Unzip it
 + Open Sketch file
-+ Open Craft `⌘+P`
++ Open CRAFT `⌘+P`
 + Choose library icon
 + Choose libraty from folder ui-material-in-symbols-master `Material.Buttonsandfields.library`
 
