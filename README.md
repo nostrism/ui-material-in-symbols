@@ -23,12 +23,22 @@ You can write in any text in button. Customized sizes manually. But this can be 
 
 You can choose any style for button: rise, flat or dissable, call-to-action or simple.
 
-![Edit button](./img/btn-02.gif)
+![Button styles](./img/btn-02.gif)
 
 Even buttons with icon inside. Can be used any material icon.
 
-![Edit button](./img/btn-03.gif)
+![Icon inside](./img/btn-03.gif)
 
 ### Text fields
 
 ![All Buttons](./img/Fields.png)
+
+You can write in any text in fields: label, text and hint.
+
+![Edit fields](./img/fileds-01.gif)
+
+You can choose any style for field: default, empty or dissable, with hint or without.
+
+![Fields style](./img/fileds-02.gif)
+
+Text always be on correct place — lable on lable, text on text. Every symbols have label, text and hint. Even changed style text will no be disappear.
