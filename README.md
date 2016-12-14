@@ -20,3 +20,11 @@ Symbols of buttons and text fields in materil design for CRAFT.
 You can write in any text in button. Customized sizes manually. But this can be done by eye, since all distances will still be correct.
 
 ![Edit button](./img/btn-01.gif)
+
+You can choose any style for button: rise, flat or dissable, call-to-action or simple.
+
+![Edit button](./img/btn-02.gif)
+
+Even buttons with icon inside. Can be used any material icon.
+
+![Edit button](./img/btn-03.gif)
