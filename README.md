@@ -1,15 +1,10 @@
-# UI material design in sketch-symbols
+# UI material design in sketch-symbols for CRAFT
 
-Symbols of buttons and text fields in materil design.
-
-Currently support:
-
-+ [Google Spreadsheets](https://docs.google.com)
-+ [Sheetsu](https://sheetsu.com)
+Symbols of buttons and text fields in materil design for CRAFT.
 
 # Installation
 
-+ Download the [zip file](https://github.com/contentsync/SketchContentSync.sketchplugin/releases/download/v0.3.3/SketchContentSync.sketchplugin.zip)
++ Download the [zip file](https://github.com/nostrism/ui-material-in-symbols/archive/master.zip)
 + Unzip the zip file
 + Make sure the name of the file is `SketchContentSync.sketchplugin`.
 + Double click on the `SketchContentSync.sketchplugin` to install it into Sketch.
